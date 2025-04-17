@@ -37,4 +37,4 @@
 ## 📬 **Let's Connect!**
 Open to Java developer roles and opportunities:  
 📩 shraddhagkg6982@gmail.com  
-🔗 [LeetCode Profile](your_link) • 🌐 [Portfolio Site](optional_link)
+🔗 [LeetCode Profile]- https://leetcode.com/u/shraddhauh/ 
